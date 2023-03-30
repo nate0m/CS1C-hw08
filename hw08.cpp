@@ -129,8 +129,8 @@ int main()
 	cout << endl;
 	cout << "************************************** " << endl;
 	cout << "*           Running HW08             * " << endl;
-	cout << "*      Programmed by First Last      * " << endl;
-	cout << "*      CS1C Date & Time              * " << endl;
+	cout << "*      Programmed by Nathan Milton   * " << endl;
+	cout << "*      CS1C Tues/Thurs & 1:30pm      * " << endl;
 	cout << "************************************** " << endl;
 	cout << endl;
 
@@ -157,21 +157,19 @@ int main()
     // indicate if the requested operation is not allowed, why not?
 	// Q#1 - reference examples
     int y = 50;
-    // ... // [1.8] variable r of type reference to int refers to y (i.e. int& r = ?;), nothing special to do here in the initializer
+    int &r = y; // [1.8] variable r of type reference to int refers to y (i.e. int& r = ?;), nothing special to do here in the initializer
     // - valid - but r would be the memory location y. 
-    // ... // [1.9] variable s of type reference to double refers to y
+    //double &s = y; // [1.9] variable s of type reference to double refers to y
     // - invalid - references must have the same type as refered. 
-    // ... // [1.10] update the value of r to 10, assign to y through r (notice * is not needed)
+    r = 10; // [1.10] update the value of r to 10, assign to y through r (notice * is not needed)
     // - valid - since & is not used its the value stored at the memory location.
-    // ... // [1.11] store the value of r in variable y2 of type int, read y through r (notice * is not needed)
+    int y2 = r;// [1.11] store the value of r in variable y2 of type int, read y through r (notice * is not needed)
     // - valid - if r is of type int& than value can be stored. 
-    // ... // [1.12] variable r2 of type reference to int refers to y2, get a reference to int y2
+    int &r2 = y2; // [1.12] variable r2 of type reference to int refers to y2, get a reference to int y2
     // - valid - It will be the same as r2&.
-    // ... // [1.13] assign r to r2, the value of y is assigned to y2 
-    // - valid - r, r2, y, y2 all have same memory location.
-    // ... // [1.14] assign y2 to r, r2 and r both point to y2
-    // - valid - y2, r, r2 all share the same memory location.
-    // ... // [1.15] variable r3 of type reference to int is defined but not initialized (i.e. does not refer to an int)
+    r2 = r; // [1.13] assign r to r2, the value of y is assigned to y2 
+    r = y2; // [1.14] assign y2 to r, r2 and r both point to y2
+    //int &r3; // [1.15] variable r3 of type reference to int is defined but not initialized (i.e. does not refer to an int)
     // - invalid - r3 needs to be intitalized before being used.
 
 	// Q#1 - pointer vs reference: increment functions
@@ -211,21 +209,21 @@ int main()
     pd[-3] = 5;
     pd2[5] = 6;
 
-    // ... // [2.1] move pd three elements to the right
-    // ... // [2.2] move pd six elements to the left
-    //pd += 1000;    // [2.3] // ... error explain
+    // pd + 3; // [2.1] move pd three elements to the right
+    // pd - 6; // [2.2] move pd six elements to the left
+    // pd += 1000;    // [2.3] // ... error explain
     // - causes pointer to go out of bounds of array.
-    //double d = *pd;// [2.4] // ... error explain
+    // double d = *pd;// [2.4] // ... error explain
     // - d not defined before being set to *pd. pd might be pointing to non double memory location. 
-    //*pd = 12.34;   // [2.5] // ... error explain
+    // *pd = 12.34;   // [2.5] // ... error explain
     // - *pd not ititalized. memory location could be bad. 
 
-    // ... // [2.6] compute the number of elements between pd and pd2 by taking the difference between pd2 and pd
+    // int dif = pd - pd2; // [2.6] compute the number of elements between pd and pd2 by taking the difference between pd2 and pd
     // - difference = 2
     //int dif2 = pd + pd2; // [2.7] // ... error explain
-    // - out od bounds of array.
-    //int dif3 = pd2 - pd3;// [2.8] // ... error explain
-    // - out of bounds of array.
+    // - invalid operation for pointers. pointers need to be dereferenced.
+    // int dif3 = pd2 - pd3;// [2.8] // ... error explain
+    // - out of bounds of array. pointers need to be dereferenced. pd3 not declared. 
 
     cout << endl << "print array of doubles forward and backward" << endl << endl;
 
@@ -315,7 +313,7 @@ int main()
         cout << array_of_doubles[i] << " ";
     cout << endl;
     delete array_of_doubles;
-    // ... // [4.9] free array, no longer needed
+    delete[] array_of_doubles; // [4.9] free array, no longer needed
 
 	// Q#5 - dynamic 2d arrays, indexing via subscript operator, pointer arithmetic
 
@@ -351,5 +349,38 @@ int main()
 //------------------------------------------------------------------------------
 
 // WRITTEN ANSWERS
+// Q#1 - A pointer is a variable that equal to an address location that stores a value or variable and a reference is a alias for a variable that already exists. The difference between the two is that a pointer can be dereferenced to display the value at the address location that it is pointing to as well has change the location or value or varible that it is pointing to; a reference has neither of these functionalities.
+// Another function that the pointer has is that it can be set to a null value. The refence can not be set to a null value.
 
-// add written answers here ... Q#1 Q#3 Q#5
+// [1.1] - allowed because an int pointer can stores the address location of an int. & on a pointer returns address location.
+// [1.2] - not allowed because a double pointer can only point to a double object.
+// [1.3] - not allowed using the * would dereference the pointer and assign the value to the address location
+// [1.4] - allowed deferencing the pointer to the value of x.
+// [1.5] - allowed & would be the value of the address location of x2 that is being pointed to.
+// [1.6] - allowed because both pointers point to the same location in memory.
+// [1.7] - allowed. p and p2 would both point to the same location in memory.
+//
+// [1.8] - allowed. r refers to y using the same memory location.
+// [1.9] - not allowed. reference need to be of the same type as refered. double != int.
+// [1.10] - allowed. changes the value stored at shared memory location to 10.
+// [1.11] - allowed. both of type int y2 store value stored at shared memory location of r and y,
+// [1.12] - allowed. r2 and y2 share the same memory location.
+// [1.13] - allowed.
+// [1.14] - allowed. You explain 13 and 14 in main.
+// [1.15] - not allowed. &r3 needs to be initalized before use.
+//
+// [2.3] - out of array bounds error.
+// [2.4] - memory location not initalized before store data. *pd could be storing something other than double.
+// [2.5] - *pd not initalized. Memory not allocated.
+// [2.7] - out of array bounds when added.
+// [2.8] - out of array bounds when substracted.
+
+// Q#3 - The twoDDoubles array would be a contiguous block of memory. It is necessary to cast twoDDoubles as a double* because that is what the function protype was defined to expect. You need to pass the pointer value to use pointer arithmetic to mvoe throught the array. If the subscript operator was being used the double* cast could not be necessary becauset he [] would do the work of dereferencing.
+//
+// [4.5] - not allowed. Assigning an int pointer to a double pointer is not allowed. Could be type casting?
+// [4.6] - not allowed. Double pointer can not be set to int pointer.
+// [4.7] - values are deleted from the memory location. Since ri3 is already a memory location it is uneffected.
+// [4.8] - allowed. r2 and r3 are now nullptr. The original qi array is deleted because ri3 is a reference to the pointer to the address of *qi.
+
+//Q#5 - memory is non-contiguous because the three rows are allocated separately. A double pointer is passed to the print function because a double pointer with the subscript operator was used to allocate and declare the board. With the base double pointer that starts the array either pointer arithmetic or the subscript operator can be used to output the contents of the array in order.
+

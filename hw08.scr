@@ -1,31 +1,32 @@
-Script started on 2023-03-18 20:18:16-07:00 [TERM="st-256color" TTY="/dev/pts/0" COLUMNS="115" LINES="50"]
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw08]1;..CS1C/src/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hddate[?1l>[?2004l
-]2;date]1;dateSat Mar 18 08:18:20 PM PDT 2023
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw08]1;..CS1C/src/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
-]2;ls --color=tty -l]1;lstotal 40
--rw-r--r-- 1 nate nate 14072 Mar 18 20:17 hw08.cpp
--rw-r--r-- 1 nate nate 16632 Mar 11 21:02 hw08-daniel.cpp
--rw-r--r-- 1 nate nate     0 Mar 18 20:18 hw08.scr
--rw-r--r-- 1 nate nate   133 Mar 11 20:10 Makefile
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw08]1;..CS1C/src/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hmmake all[?1l>[?2004l
+Script started on 2023-03-30 11:39:08-07:00 [TERM="st-256color" TTY="/dev/pts/1" COLUMNS="115" LINES="50"]
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw08]1;..ool/cs1c/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hbbate  b  ddate[?1l>[?2004l
+]2;date]1;dateThu Mar 30 11:39:13 AM PDT 2023
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw08]1;..ool/cs1c/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
+]2;ls --color=tty -l]1;lstotal 28
+drwxr-xr-x 2 nate nate  4096 Mar 30 10:05 [0m[01;34mdocs[0m
+-rw-r--r-- 1 nate nate 17331 Mar 30 11:37 hw08.cpp
+-rw-r--r-- 1 nate nate     0 Mar 30 11:39 hw08.scr
+-rw-r--r-- 1 nate nate   133 Mar 30 08:46 Makefile
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw08]1;..ool/cs1c/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hmmake all[?1l>[?2004l
 ]2;make all]1;makeg++ hw08.cpp -o hw08.o
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw08]1;..CS1C/src/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls -l[?1l>[?2004l
-]2;ls --color=tty -l]1;lstotal 64
--rw-r--r-- 1 nate nate 14072 Mar 18 20:17 hw08.cpp
--rw-r--r-- 1 nate nate 16632 Mar 11 21:02 hw08-daniel.cpp
--rwxr-xr-x 1 nate nate 21352 Mar 18 20:18 [0m[01;32mhw08.o[0m
--rw-r--r-- 1 nate nate     0 Mar 18 20:18 hw08.scr
--rw-r--r-- 1 nate nate   133 Mar 11 20:10 Makefile
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw08]1;..CS1C/src/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h../hw08[?1l>[?2004l
-]2;./hw08]1;./hw08zsh: no such file or directory: ./hw08
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw08]1;..CS1C/src/hw08[0m[27m[24m[J[01;31m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls --color=tty]1;lshw08.cpp  hw08-daniel.cpp  [0m[01;32mhw08.o[0m  hw08.scr  Makefile
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw08]1;..CS1C/src/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h../hw08.o[1m [0m[0m [?1l>[?2004l
-]2;./hw08.o]1;./hw08.o
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw08]1;..ool/cs1c/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls - l[?1l>[?2004l
+]2;ls --color=tty -l]1;lstotal 52
+drwxr-xr-x 2 nate nate  4096 Mar 30 10:05 [0m[01;34mdocs[0m
+-rw-r--r-- 1 nate nate 17331 Mar 30 11:37 hw08.cpp
+-rwxr-xr-x 1 nate nate 21352 Mar 30 11:39 [01;32mhw08.o[0m
+-rw-r--r-- 1 nate nate     0 Mar 30 11:39 hw08.scr
+-rw-r--r-- 1 nate nate   133 Mar 30 08:46 Makefile
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw08]1;..ool/cs1c/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hvvalgrind ./hw08.o[1m [0m[0m [?1l>[?2004l
+]2;valgrind ./hw08.o]1;valgrind==478377== Memcheck, a memory error detector
+==478377== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==478377== Using Valgrind-3.20.0 and LibVEX; rerun with -h for copyright info
+==478377== Command: ./hw08.o
+==478377== 
+
 ************************************** 
 *           Running HW08             * 
-*      Programmed by First Last      * 
-*      CS1C Date & Time              * 
+*      Programmed by Nathan Milton   * 
+*      CS1C Tues/Thurs & 1:30pm      * 
 ************************************** 
 
 increment pointer vs reference
@@ -40,24 +41,1708 @@ increment pointer vs reference
 
 print array of doubles forward and backward
 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C08BF9: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:230)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C08C13: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:230)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C038E6: __mpn_extract_double (dbl2mpn.c:56)
+==478377==    by 0x4C0933E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:230)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C038EB: __mpn_extract_double (dbl2mpn.c:60)
+==478377==    by 0x4C0933E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:230)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0946C: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:805)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0949B: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:808)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C094D4: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:818)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C09508: round_away (rounding-mode.h:52)
+==478377==    by 0x4C09508: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:825)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C09542: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:924)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0964D: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:987)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
 0
 0
 5
-0
-6.91252e-310
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C08D06: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:271)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C08D29: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:271)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C08D2B: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:271)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C08D5B: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:272)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C08D7E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:272)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C08D80: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:272)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C08DA9: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:273)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C08DCC: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:273)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C08DCE: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:273)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C08DED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:280)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C09933: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:483)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C09EFC: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:499)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C0241C: __mpn_lshift (lshift.S:59)
+==478377==    by 0x4C09F00: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:499)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C0241F: __mpn_lshift (lshift.S:60)
+==478377==    by 0x4C09F00: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:499)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C09F1A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:500)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C09F22: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:501)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0A020: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:511)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0A012: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:623)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02590: __mpn_mul (mul.c:71)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C02597: __mpn_mul (mul.c:72)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A30: __mpn_mul_1 (mul_1.S:90)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A92: __mpn_mul_1 (mul_1.S:117)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C027C5: __mpn_mul (mul.c:83)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C027EC: __mpn_mul (mul.c:88)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C02814: __mpn_mul (mul.c:91)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C027F5: __mpn_mul (mul.c:94)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C01B37: __mpn_add_n (add_n.S:37)
+==478377==    by 0x4C02841: __mpn_mul (mul.c:95)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02842: __mpn_mul (mul.c:95)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C02806: __mpn_mul (mul.c:88)
+==478377==    by 0x4C09F8A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:519)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C09FB9: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:531)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C09FD8: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:535)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C09FEE: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:540)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C09FFA: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:562)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C0A085: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:579)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0A09A: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:579)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C0A0B0: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:579)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0A0C4: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:579)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0A0CD: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:580)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0A0E2: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:601)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C035F9: __mpn_rshift (rshift.S:31)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C03620: __mpn_rshift (rshift.S:45)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0364A: __mpn_rshift (rshift.S:61)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C03699: __mpn_rshift (rshift.S:87)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C036A8: __mpn_rshift (rshift.S:92)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C036DA: __mpn_rshift (rshift.S:105)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0A049: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:518)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02998: __mpn_mul_1 (mul_1.S:36)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C029AE: __mpn_mul_1 (mul_1.S:45)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C029B3: __mpn_mul_1 (mul_1.S:47)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C029B5: __mpn_mul_1 (mul_1.S:48)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A0C: __mpn_mul_1 (mul_1.S:77)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A6D: __mpn_mul_1 (mul_1.S:106)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C02A90: __mpn_mul_1 (mul_1.S:115)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A30: __mpn_mul_1 (mul_1.S:90)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A37: __mpn_mul_1 (mul_1.S:92)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A92: __mpn_mul_1 (mul_1.S:117)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C027C5: __mpn_mul (mul.c:83)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C01BEC: __mpn_addmul_1 (addmul_1.S:40)
+==478377==    by 0x1FFEFFF01F: ???
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C01BEF: __mpn_addmul_1 (addmul_1.S:41)
+==478377==    by 0x1FFEFFF01F: ???
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C01C02: __mpn_addmul_1 (addmul_1.S:48)
+==478377==    by 0x1FFEFFF01F: ???
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C01C2C: __mpn_addmul_1 (addmul_1.S:63)
+==478377==    by 0x1FFEFFF01F: ???
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C01C35: __mpn_addmul_1 (addmul_1.S:66)
+==478377==    by 0x1FFEFFF01F: ???
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C01C95: __mpn_addmul_1 (addmul_1.S:94)
+==478377==    by 0x1FFEFFF01F: ???
+==478377==    by 0x57: ???
+==478377==    by 0x4C02824: __mpn_mul (mul.c:98)
+==478377==    by 0x3FFDFFD2D: ???
+==478377==    by 0x1FFEFFF18F: ???
+==478377==    by 0xFFF: ???
+==478377==    by 0x3001D4A17: ???
+==478377==    by 0x1FFEFFEC7F: ???
+==478377==    by 0x4D44177: ??? (in /usr/lib/libc.so.6)
+==478377==    by 0xA: ???
+==478377==    by 0xA: ???
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C01C59: __mpn_addmul_1 (addmul_1.S:78)
+==478377==    by 0x1FFEFFF01F: ???
+==478377==    by 0x57: ???
+==478377==    by 0x4C02824: __mpn_mul (mul.c:98)
+==478377==    by 0x3FFDFFD2D: ???
+==478377==    by 0x1FFEFFF18F: ???
+==478377==    by 0xFFF: ???
+==478377==    by 0x3001D4A17: ???
+==478377==    by 0x1FFEFFEC7F: ???
+==478377==    by 0x4D44177: ??? (in /usr/lib/libc.so.6)
+==478377==    by 0xA: ???
+==478377==    by 0xA: ???
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C01C60: __mpn_addmul_1 (addmul_1.S:80)
+==478377==    by 0x1FFEFFF01F: ???
+==478377==    by 0x57: ???
+==478377==    by 0x4C02824: __mpn_mul (mul.c:98)
+==478377==    by 0x3FFDFFD2D: ???
+==478377==    by 0x1FFEFFF18F: ???
+==478377==    by 0xFFF: ???
+==478377==    by 0x3001D4A17: ???
+==478377==    by 0x1FFEFFEC7F: ???
+==478377==    by 0x4D44177: ??? (in /usr/lib/libc.so.6)
+==478377==    by 0xA: ???
+==478377==    by 0xA: ???
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C01CA0: __mpn_addmul_1 (addmul_1.S:99)
+==478377==    by 0x1FFEFFF01F: ???
+==478377==    by 0x57: ???
+==478377==    by 0x4C02824: __mpn_mul (mul.c:98)
+==478377==    by 0x3FFDFFD2D: ???
+==478377==    by 0x1FFEFFF18F: ???
+==478377==    by 0xFFF: ???
+==478377==    by 0x3001D4A17: ???
+==478377==    by 0x1FFEFFEC7F: ???
+==478377==    by 0x4D44177: ??? (in /usr/lib/libc.so.6)
+==478377==    by 0xA: ???
+==478377==    by 0xA: ???
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02825: __mpn_mul (mul.c:98)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C02806: __mpn_mul (mul.c:88)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0A798: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:580)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0A7AF: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:590)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C035FB: __mpn_rshift (rshift.S:33)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C036CA: __mpn_rshift (rshift.S:101)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C029F7: __mpn_mul_1 (mul_1.S:70)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A5A: __mpn_mul_1 (mul_1.S:101)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C023D3: __mpn_lshift (lshift.S:34)
+==478377==    by 0x4C0A7CA: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:596)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C023D5: __mpn_lshift (lshift.S:36)
+==478377==    by 0x4C0A7CA: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:596)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C024AA: __mpn_lshift (lshift.S:103)
+==478377==    by 0x4C0A7CA: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:596)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C024BA: __mpn_lshift (lshift.S:107)
+==478377==    by 0x4C0A7CA: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:596)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02487: __mpn_lshift (lshift.S:94)
+==478377==    by 0x4C0A7CA: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:596)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C0A7E4: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:599)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C029BA: __mpn_mul_1 (mul_1.S:51)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C029D9: __mpn_mul_1 (mul_1.S:60)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A47: __mpn_mul_1 (mul_1.S:96)
+==478377==    by 0x4C027B0: __mpn_mul (mul.c:81)
+==478377==    by 0x4C0A05E: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:524)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C03622: __mpn_rshift (rshift.S:46)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0362F: __mpn_rshift (rshift.S:50)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C03631: __mpn_rshift (rshift.S:51)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C036BA: __mpn_rshift (rshift.S:97)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C036BE: __mpn_rshift (rshift.S:98)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C036A4: __mpn_rshift (rshift.S:91)
+==478377==    by 0x4C0A107: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:613)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C08971: hack_digit (printf_fp.c:95)
+==478377==    by 0x4C091ED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:769)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== 
+==478377== More than 100 errors detected.  Subsequent errors
+==478377== will still be recorded, but in less detail than before.
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02998: __mpn_mul_1 (mul_1.S:36)
+==478377==    by 0x4C08978: hack_digit (printf_fp.c:96)
+==478377==    by 0x4C091ED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:769)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C029AE: __mpn_mul_1 (mul_1.S:45)
+==478377==    by 0x4C08978: hack_digit (printf_fp.c:96)
+==478377==    by 0x4C091ED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:769)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C029F7: __mpn_mul_1 (mul_1.S:70)
+==478377==    by 0x4C08978: hack_digit (printf_fp.c:96)
+==478377==    by 0x4C091ED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:769)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A5A: __mpn_mul_1 (mul_1.S:101)
+==478377==    by 0x4C08978: hack_digit (printf_fp.c:96)
+==478377==    by 0x4C091ED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:769)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C02A90: __mpn_mul_1 (mul_1.S:115)
+==478377==    by 0x4C08978: hack_digit (printf_fp.c:96)
+==478377==    by 0x4C091ED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:769)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A30: __mpn_mul_1 (mul_1.S:90)
+==478377==    by 0x4C08978: hack_digit (printf_fp.c:96)
+==478377==    by 0x4C091ED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:769)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A37: __mpn_mul_1 (mul_1.S:92)
+==478377==    by 0x4C08978: hack_digit (printf_fp.c:96)
+==478377==    by 0x4C091ED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:769)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C02A92: __mpn_mul_1 (mul_1.S:117)
+==478377==    by 0x4C08978: hack_digit (printf_fp.c:96)
+==478377==    by 0x4C091ED: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:769)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C09D89: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:774)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0928C: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:790)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C08971: hack_digit (printf_fp.c:95)
+==478377==    by 0x4C092A5: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:793)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C08971: hack_digit (printf_fp.c:95)
+==478377==    by 0x4C09484: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:806)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C094A8: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:810)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C094B8: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:818)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Use of uninitialised value of size 8
+==478377==    at 0x4C094C1: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:810)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C0988B: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:835)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C098F3: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:842)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C09912: __printf_fp_buffer_1.constprop.0.isra.0 (printf_fp.c:855)
+==478377==    by 0x4C0AC93: __printf_fp_l_buffer (printf_fp.c:1122)
+==478377==    by 0x4C11624: __printf_fp_spec (vfprintf-internal.c:266)
+==478377==    by 0x4C11624: __printf_buffer (vfprintf-internal.c:943)
+==478377==    by 0x4C326B4: __vsnprintf_internal (vsnprintf.c:96)
+==478377==    by 0x4C326B4: vsnprintf (vsnprintf.c:103)
+==478377==    by 0x49707F1: std::__convert_from_v(__locale_struct* const&, char*, int, char const*, ...) (c++locale.h:97)
+==478377==    by 0x49A4565: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1023)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4848EA4: memchr (vg_replace_strmem.c:983)
+==478377==    by 0x49A46D5: find (char_traits.h:407)
+==478377==    by 0x49A46D5: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1070)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Conditional jump or move depends on uninitialised value(s)
+==478377==    at 0x4C3567C: _IO_new_file_xsputn (fileops.c:1218)
+==478377==    by 0x4C3567C: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1196)
+==478377==    by 0x4C29AC8: fwrite (iofwrite.c:39)
+==478377==    by 0x49A4745: sputn (streambuf:456)
+==478377==    by 0x49A4745: _M_put (streambuf_iterator.h:326)
+==478377==    by 0x49A4745: __write<char> (locale_facets.h:124)
+==478377==    by 0x49A4745: std::ostreambuf_iterator<char, std::char_traits<char> > std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::_M_insert_float<double>(std::ostreambuf_iterator<char, std::char_traits<char> >, std::ios_base&, char, char, double) const (locale_facets.tcc:1118)
+==478377==    by 0x49B552E: put (locale_facets.h:2463)
+==478377==    by 0x49B552E: std::ostream& std::ostream::_M_insert<double>(double) (ostream.tcc:73)
+==478377==    by 0x109A87: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Syscall param write(buf) points to uninitialised byte(s)
+==478377==    at 0x4CAE9D4: write (write.c:26)
+==478377==    by 0x4C3502C: _IO_file_write@@GLIBC_2.2.5 (fileops.c:1180)
+==478377==    by 0x4C343CF: new_do_write (fileops.c:448)
+==478377==    by 0x4C360A8: _IO_do_write@@GLIBC_2.2.5 (fileops.c:425)
+==478377==    by 0x4C36542: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:783)
+==478377==    by 0x49B3961: sputc (streambuf:439)
+==478377==    by 0x49B3961: sputc (streambuf:429)
+==478377==    by 0x49B3961: std::ostream::put(char) (ostream.tcc:163)
+==478377==    by 0x49B45EA: std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char) (ostream:527)
+==478377==    by 0x109A94: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==  Address 0x4db5c80 is 0 bytes inside a block of size 1,024 alloc'd
+==478377==    at 0x4841888: malloc (vg_replace_malloc.c:393)
+==478377==    by 0x4C28470: _IO_file_doallocate (filedoalloc.c:101)
+==478377==    by 0x4C3756F: _IO_doallocbuf (genops.c:347)
+==478377==    by 0x4C3756F: _IO_doallocbuf (genops.c:342)
+==478377==    by 0x4C365D7: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:744)
+==478377==    by 0x49B3961: sputc (streambuf:439)
+==478377==    by 0x49B3961: sputc (streambuf:429)
+==478377==    by 0x49B3961: std::ostream::put(char) (ostream.tcc:163)
+==478377==    by 0x49B3F53: std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&) (ostream:689)
+==478377==    by 0x10967D: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+3.82286e-316
+3.86882e-316
 3
-6.91252e-310
+4.01991e-316
 4
 0
-6.91252e-310
+3.86898e-316
 
-6.91252e-310
+3.86898e-316
 0
 4
-6.91252e-310
+4.01991e-316
 3
-6.91252e-310
-0
+3.86882e-316
+3.82286e-316
 5
 0
 0
@@ -83,15 +1768,52 @@ ri, ri2, ri3 before delete
 
 100
 200
-0x5628c20212e0
+0x4db6110
 
 ri, ri2, ri3 after delete
 
--1601293535
--1601293599
-0x5628c20212e0
+==478377== Invalid read of size 4
+==478377==    at 0x10A01B: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==  Address 0x4db60c0 is 0 bytes inside a block of size 4 free'd
+==478377==    at 0x4844B5F: operator delete(void*, unsigned long) (vg_replace_malloc.c:947)
+==478377==    by 0x109FA0: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==  Block was alloc'd at
+==478377==    at 0x4842003: operator new(unsigned long) (vg_replace_malloc.c:434)
+==478377==    by 0x109DC4: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+100
+==478377== Invalid read of size 4
+==478377==    at 0x10A047: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==  Address 0x4db6110 is 0 bytes inside a block of size 20 free'd
+==478377==    at 0x4845A7F: operator delete[](void*) (vg_replace_malloc.c:1115)
+==478377==    by 0x109FC1: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==  Block was alloc'd at
+==478377==    at 0x48432E3: operator new[](unsigned long) (vg_replace_malloc.c:652)
+==478377==    by 0x109DD5: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+200
+0x4db6110
 
 0 47 94 141 188 235 282 329 376 423 470 517 564 611 658 705 752 799 846 893 940 987 1034 1081 1128 1175 1222 1269 1316 1363 1410 1457 1504 1551 1598 1645 1692 1739 1786 1833 1880 1927 1974 2021 2068 2115 2162 2209 2256 2303 2350 2397 2444 2491 2538 2585 2632 2679 2726 2773 2820 2867 2914 2961 3008 3055 3102 3149 3196 3243 3290 3337 3384 3431 3478 3525 3572 3619 3666 3713 3760 3807 3854 3901 3948 3995 4042 4089 4136 4183 4230 4277 4324 4371 4418 4465 4512 4559 4606 4653 4700 4747 4794 4841 4888 4935 4982 5029 5076 5123 5170 5217 5264 5311 5358 5405 5452 5499 5546 5593 5640 5687 5734 5781 5828 5875 5922 5969 6016 6063 6110 6157 6204 6251 6298 6345 6392 6439 6486 6533 6580 6627 6674 6721 6768 6815 6862 6909 6956 7003 7050 7097 7144 7191 7238 7285 7332 7379 7426 7473 7520 7567 7614 7661 7708 7755 7802 7849 7896 7943 7990 8037 8084 8131 8178 8225 8272 8319 8366 8413 8460 8507 8554 8601 8648 8695 8742 8789 8836 8883 8930 8977 9024 9071 9118 9165 9212 9259 9306 9353 9400 9447 9494 9541 9588 9635 9682 9729 9776 9823 9870 9917 9964 10011 10058 10105 10152 10199 10246 10293 10340 10387 10434 10481 10528 10575 10622 10669 10716 10763 10810 10857 10904 10951 10998 11045 11092 11139 11186 11233 11280 11327 11374 11421 11468 11515 11562 11609 11656 11703 11750 11797 11844 11891 11938 11985 12032 12079 12126 12173 12220 12267 12314 12361 12408 12455 12502 12549 12596 12643 12690 12737 12784 12831 12878 12925 12972 13019 13066 13113 13160 13207 13254 13301 13348 13395 13442 13489 13536 13583 13630 13677 13724 13771 13818 13865 13912 13959 14006 14053 14100 14147 14194 14241 14288 14335 14382 14429 14476 14523 14570 14617 14664 14711 14758 14805 14852 14899 14946 14993 15040 15087 15134 15181 15228 15275 15322 15369 15416 15463 15510 15557 15604 15651 15698 15745 15792 15839 15886 15933 15980 16027 16074 16121 16168 16215 16262 16309 16356 16403 16450 16497 16544 16591 16638 16685 16732 16779 16826 16873 16920 16967 17014 17061 17108 17155 17202 17249 17296 17343 17390 17437 17484 17531 17578 17625 17672 17719 17766 17813 17860 17907 17954 18001 18048 18095 18142 18189 18236 18283 18330 18377 18424 18471 18518 18565 18612 18659 18706 18753 18800 18847 18894 18941 18988 19035 19082 19129 19176 19223 19270 19317 19364 19411 19458 19505 19552 19599 19646 19693 19740 19787 19834 19881 19928 19975 20022 20069 20116 20163 20210 20257 20304 20351 20398 20445 20492 20539 20586 20633 20680 20727 20774 20821 20868 20915 20962 21009 21056 21103 21150 21197 21244 21291 21338 21385 21432 21479 21526 21573 21620 21667 21714 21761 21808 21855 21902 21949 21996 22043 22090 22137 22184 22231 22278 22325 22372 22419 22466 22513 22560 22607 22654 22701 22748 22795 22842 22889 22936 22983 23030 23077 23124 23171 23218 23265 23312 23359 23406 23453 23500 23547 23594 23641 23688 23735 23782 23829 23876 23923 23970 24017 24064 24111 24158 24205 24252 24299 24346 24393 24440 24487 24534 24581 24628 24675 24722 24769 24816 24863 24910 24957 25004 25051 25098 25145 25192 25239 25286 25333 25380 25427 25474 25521 25568 25615 25662 25709 25756 25803 25850 25897 25944 25991 26038 26085 26132 26179 26226 26273 26320 26367 26414 26461 26508 26555 26602 26649 26696 26743 26790 26837 26884 26931 26978 27025 27072 27119 27166 27213 27260 27307 27354 27401 27448 27495 27542 27589 27636 27683 27730 27777 27824 27871 27918 27965 28012 28059 28106 28153 28200 28247 28294 28341 28388 28435 28482 28529 28576 28623 28670 28717 28764 28811 28858 28905 28952 28999 29046 29093 29140 29187 29234 29281 29328 29375 29422 29469 29516 29563 29610 29657 29704 29751 29798 29845 29892 29939 29986 30033 30080 30127 30174 30221 30268 30315 30362 30409 30456 30503 30550 30597 30644 30691 30738 30785 30832 30879 30926 30973 31020 31067 31114 31161 31208 31255 31302 31349 31396 31443 31490 31537 31584 31631 31678 31725 31772 31819 31866 31913 31960 32007 32054 32101 32148 32195 32242 32289 32336 32383 32430 32477 32524 32571 32618 32665 32712 32759 32806 32853 32900 32947 32994 33041 33088 33135 33182 33229 33276 33323 33370 33417 33464 33511 33558 33605 33652 33699 33746 33793 33840 33887 33934 33981 34028 34075 34122 34169 34216 34263 34310 34357 34404 34451 34498 34545 34592 34639 34686 34733 34780 34827 34874 34921 34968 35015 35062 35109 35156 35203 35250 35297 35344 35391 35438 35485 35532 35579 35626 35673 35720 35767 35814 35861 35908 35955 36002 36049 36096 36143 36190 36237 36284 36331 36378 36425 36472 36519 36566 36613 36660 36707 36754 36801 36848 36895 36942 36989 37036 37083 37130 37177 37224 37271 37318 37365 37412 37459 37506 37553 37600 37647 37694 37741 37788 37835 37882 37929 37976 38023 38070 38117 38164 38211 38258 38305 38352 38399 38446 38493 38540 38587 38634 38681 38728 38775 38822 38869 38916 38963 39010 39057 39104 39151 39198 39245 39292 39339 39386 39433 39480 39527 39574 39621 39668 39715 39762 39809 39856 39903 39950 39997 40044 40091 40138 40185 40232 40279 40326 40373 40420 40467 40514 40561 40608 40655 40702 40749 40796 40843 40890 40937 40984 41031 41078 41125 41172 41219 41266 41313 41360 41407 41454 41501 41548 41595 41642 41689 41736 41783 41830 41877 41924 41971 42018 42065 42112 42159 42206 42253 42300 42347 42394 42441 42488 42535 42582 42629 42676 42723 42770 42817 42864 42911 42958 43005 43052 43099 43146 43193 43240 43287 43334 43381 43428 43475 43522 43569 43616 43663 43710 43757 43804 43851 43898 43945 43992 44039 44086 44133 44180 44227 44274 44321 44368 44415 44462 44509 44556 44603 44650 44697 44744 44791 44838 44885 44932 44979 45026 45073 45120 45167 45214 45261 45308 45355 45402 45449 45496 45543 45590 45637 45684 45731 45778 45825 45872 45919 45966 46013 46060 46107 46154 46201 46248 46295 46342 46389 46436 46483 46530 46577 46624 46671 46718 46765 46812 46859 46906 46953 
+==478377== Mismatched free() / delete / delete []
+==478377==    at 0x4844B5F: operator delete(void*, unsigned long) (vg_replace_malloc.c:947)
+==478377==    by 0x10A153: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==  Address 0x4db7260 is 0 bytes inside a block of size 8,000 alloc'd
+==478377==    at 0x48432E3: operator new[](unsigned long) (vg_replace_malloc.c:652)
+==478377==    by 0x1095DD: hw08::dynamic_allocation_array_doubles(int) (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==    by 0x10A0B5: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
+==478377== Invalid free() / delete / delete[] / realloc()
+==478377==    at 0x4845A7F: operator delete[](void*) (vg_replace_malloc.c:1115)
+==478377==    by 0x10A16C: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==  Address 0x4db7260 is 0 bytes inside a block of size 8,000 free'd
+==478377==    at 0x4844B5F: operator delete(void*, unsigned long) (vg_replace_malloc.c:947)
+==478377==    by 0x10A153: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==  Block was alloc'd at
+==478377==    at 0x48432E3: operator new[](unsigned long) (vg_replace_malloc.c:652)
+==478377==    by 0x1095DD: hw08::dynamic_allocation_array_doubles(int) (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377==    by 0x10A0B5: main (in /home/nate/Documents/school/cs1c/hw08/hw08.o)
+==478377== 
 1 0 0 
 0 1 0 
 0 0 1 
@@ -100,6 +1822,16 @@ ri, ri2, ri3 after delete
 0 1 0 
 0 0 1 
 
-[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCraft:~/Documents/CS1C/src/hw08]1;..CS1C/src/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004heexit[?1l>[?2004l
+==478377== 
+==478377== HEAP SUMMARY:
+==478377==     in use at exit: 0 bytes in 0 blocks
+==478377==   total heap usage: 12 allocs, 13 frees, 85,940 bytes allocated
+==478377== 
+==478377== All heap blocks were freed -- no leaks are possible
+==478377== 
+==478377== Use --track-origins=yes to see where uninitialised values come from
+==478377== For lists of detected and suppressed errors, rerun with: -s
+==478377== ERROR SUMMARY: 2836 errors from 125 contexts (suppressed: 0 from 0)
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;nate@archCrafty:~/Documents/school/cs1c/hw08]1;..ool/cs1c/hw08[0m[27m[24m[J[01;31m[01;32m[01;33m [36m  hw08[00m [01;34m  git:([31mmain[34m) [33m✗[00m [K[?1h=[?2004heexit[?1l>[?2004l
 ]2;exit]1;exit
-Script done on 2023-03-18 20:18:50-07:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2023-03-30 11:39:46-07:00 [COMMAND_EXIT_CODE="0"]
